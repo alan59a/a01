@@ -1,6 +1,8 @@
-package main
+package a01
 
-import "fmt"
+import (
+	"fmt"
+)
 
 type bar struct {
 	state int

@@ -1,7 +1,7 @@
-module beginner01
+module github.com/alan59a/a01
 
-go 1.17
+go 1.18
 
-require gonum.org/v1/gonum v0.9.3
+require gonum.org/v1/gonum v0.11.0
 
-require gonum.org/v1/netlib v0.0.0-20210927171344-7274ea1d1842 // indirect
+require golang.org/x/exp v0.0.0-20220407100705-7b9b53b0aca4 // indirect
